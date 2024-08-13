@@ -1,0 +1,9 @@
+{
+    "IdContaCliente" : 0,
+    "DocumentoCliente": "11111111111111",
+    "CodigoBanco": "111",
+    "Agencia" : "1111",
+    "NumeroConta" : "11111111111111111111",
+    "TipoConta" : "CORRENTE",
+    "Ativo" : 1
+}

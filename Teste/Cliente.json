@@ -1,0 +1,10 @@
+{
+    "Documento" : "11111111111111",
+    "Nome" : "João Lucas",
+    "NomeFantasia" : "",
+    "DataNascimento" : "23/05/2004",
+    "Email" : "joao.oliveira307@fatec.sp.gov.br",
+    "Telefone" : "(15)9999999",
+    "TipoPessoa": "J",
+    "Ativo": 1
+}
